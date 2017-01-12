@@ -3,8 +3,8 @@
 A (๑• . •๑) Navigation Stie.
 
 # screenshot
-[![screenshot1](screenshot1.png)](http://love999262.github.io/index/index.html)
-[![screenshot2](screenshot2.png)](http://love999262.github.io/index/index.html)
+[![screenshot1](screenshot1.png)](https://love999262.github.io/moe/src/moe.html)
+[![screenshot2](screenshot2.png)](https://love999262.github.io/moe/src/moe.html)
 
 # style
 * static pages
