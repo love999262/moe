@@ -67,7 +67,7 @@ var indexCreater = {
         "url": "http://www.acfun.tv/"
     }, {
         "type": "ACG",
-        "name": "电玩巴士PSP专区",
+        "name": "TGbus",
         "url": "http://games.tgbus.com/pspcn/"
     }, {
         "type": "ACG",
@@ -75,15 +75,15 @@ var indexCreater = {
         "url": "http://www.thwiki.cc/"
     }, {
         "type": "SNS",
-        "name": "微博",
+        "name": "weibo",
         "url": "http://weibo.com/"
     }, {
         "type": "SNS",
-        "name": "知乎",
+        "name": "zhihu",
         "url": "https://www.zhihu.com/"
     }, {
         "type": "SNS",
-        "name": "豆瓣",
+        "name": "douban",
         "url": "https://www.douban.com/"
     }, {
         "type": "SNS",
@@ -107,19 +107,19 @@ var indexCreater = {
         "url": "http://stackoverflow.com/"
     }, {
         "type": "shopping",
-        "name": "淘宝",
+        "name": "taobao",
         "url": "https://www.taobao.com/"
     }, {
         "type": "shopping",
-        "name": "京东",
+        "name": "jd",
         "url": "http://www.jd.com/"
     }, {
         "type": "shopping",
-        "name": "亚马逊",
+        "name": "amazon",
         "url": "http://www.amazon.cn/"
     }, {
         "type": "shopping",
-        "name": "什么值得买",
+        "name": "smzdm",
         "url": "http://www.smzdm.com/"
     }, {
         "type": "shopping",
@@ -154,7 +154,7 @@ var indexCreater = {
     }, {
 
         "type": "ACG",
-        "name": "琉璃神社",
+        "name": "llss",
         "url": "https://www.hacg.li/"
     }, {
 
